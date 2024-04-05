@@ -4,6 +4,10 @@
 1. Mugo Joseph Wamiti 
 ****
 ## Project Description
+Simplifying file uploads by allowing users to drag and drop files or select them using a button. It displays the selected files for review and provides options to upload or cancel the process, enhancing the user experience.
+
+In the future
+I will keep enhancing user experience.
 
 
 ******
