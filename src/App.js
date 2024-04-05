@@ -1,10 +1,10 @@
-import logo from './logo.svg';
 import './App.css';
+import DragDropFiles from './components/DragDropFiles';
 
 function App() {
   return (
     <div className='container'>
-      <h1>Mapema ndio best</h1>
+       <DragDropFiles />
     </div>
   );
 }

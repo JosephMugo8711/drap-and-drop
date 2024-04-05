@@ -19,3 +19,18 @@ h1, h2, h3, h4, h5, h6, p{
   align-items: center;
   justify-content: center;
 }
+
+.dropzone {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  height: 360px;
+  border: 4px dashed rgb(117, 112, 112);
+  padding: 20px;
+}
+
+button {
+  padding: 12px;
+  font-size: medium;
+}
