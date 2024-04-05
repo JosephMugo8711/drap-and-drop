@@ -41,3 +41,23 @@ button {
   margin: 1rem;
   font-size: medium;
 }
+
+
+@media (min-width: 768px) {
+  .dropzone {
+      height: 300px;
+  }
+}
+
+@media (max-width: 667px){
+  .container {
+    width: 20rem;
+    margin-left: 1.5rem;
+  }
+}
+
+@media (min-width: 1024px) {
+  .dropzone {
+      height: 400px;
+  }
+}
